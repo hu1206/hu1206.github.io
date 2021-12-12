@@ -1,5 +1,3 @@
-<!doctype html>
-<html>
 <head>
 <meta charset="utf-8">
 <title>实验主页</title>
@@ -90,4 +88,3 @@
 </div> 
 <body>
 </body>
-</html>
