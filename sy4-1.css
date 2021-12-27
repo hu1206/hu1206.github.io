@@ -1,0 +1,123 @@
+@charset "utf-8";
+/* CSS Document */
+/*页面全局样式*/
+body{
+	align-content: center;
+	font-family: arial;
+	font-size: 18px;
+	color: #FFFFFF;
+	padding: 10px;
+	margin: 20px 10px;
+	background:#F9F9F9;
+}
+/*页面主体样式*/
+.main{
+	width: 600px;
+	margin: auto;
+	background:#C0B8B8;
+	padding: 10px;
+	margin: 20px 10px;
+}
+.matter{
+	width: 100%;
+	margin: auto;
+	overflow: hidden;
+}
+#wrap{
+	margin: 0 auto;
+	width: 900px;
+}
+#box{
+	width: 800px;
+	text-align: center;
+	color:#0C0B0B;
+	background-color: #BAB8B8;
+	border-color: black;
+	height: 850px;
+	padding: 10px;
+	margin: 0px auto;
+}
+#header{
+	height: 200px;
+	background: red;
+	color: yellow;
+	border-color: yellow;
+	text-align: left;
+	padding: 10px;
+	margin: 20px 10px;
+}
+#loge{
+	height: 40px;
+	width: 200px;
+	background: yellow;
+	color: green;
+	border-color: black;
+	text-align:center;
+	padding: 5px;
+	margin-right: 5px;
+	display: inline-block;
+}
+#banner{
+	height: 40px;
+	width: 350px;
+	color: white;
+	background: #6161DC;
+	border-color: black;
+	text-align:center;
+	padding: 5px;
+	margin: 5px 5px;
+	display: inline-block;
+}
+#menu{
+	height: 40px;
+	width: 600px;
+	color: white;
+	background:#095608;
+	border-color: black;
+	text-align:center;
+	padding: 5px;
+	margin: 5px;
+	display: inline-block;
+}
+#main{
+	height: 400px;
+	background: green;
+	color: white;
+	border-color: yellow;
+	text-align: left;
+	padding: 10px;
+	margin: 20px 10px;
+}
+#sidebar{
+	height: 300px;
+	width: 200px;
+	background: #1F27CC;
+	color: white;
+	border-color: white;
+	text-align:left;
+	padding: 10px;
+	margin-right: 10px;
+	float: none;
+	display: inline-block;
+}
+#content{
+	height: 300px;
+	width: 300px;
+	background: #1987A8;
+	color: white;
+	border-color: white;
+	text-align:left;
+	padding: 10px;
+	margin-right: 10px;
+	float: right;
+	display: inline-block;
+}
+#footer{
+	height: 70px;
+	background: red;
+	color: white;
+	border-color: yellow;
+	text-align: left;
+	padding: 10px;
+	margin: 20px 10px;
+}
