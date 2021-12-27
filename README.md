@@ -1,5 +1,6 @@
 <meta charset="utf-8">
 <title>实验主页</title>
+<head>
 <style type="text/css">
         h1
         {
@@ -39,7 +40,7 @@
 			background：black no-repeat 0px 0px;
 		} 
     </style>
-
+</head>
 <body>
 <h1><a class="spec" href = "soft.html"></a>Welcome,my name is Hu Huining.</h1>
 <div class="test"> <ul>
