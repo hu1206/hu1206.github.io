@@ -81,7 +81,7 @@
 		<a href="sy7-1.html" title="实验7-1">实验7-1</a>
 		<a href="sy7-2.html" title="实验7-2">实验7-2</a>
 	</li>
-	<li><a href="8">个人主页</a></li>
+	<li><a href="main.html">个人主页</a></li>
 	</ul>
 </div> 
 <body>
