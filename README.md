@@ -39,7 +39,6 @@
 			background：black no-repeat 0px 0px;
 		} 
     </style>
-</head>
 
 <body>
 <h1><a class="spec" href = "soft.html"></a>Welcome,my name is Hu Huining.</h1>
