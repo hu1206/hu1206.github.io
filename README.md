@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -64,14 +63,10 @@
                <li class="file folderTwo"><a href="sy7-2.html" title="实验7-2">实验7-2</a></li> 
            </ol>
        </li>
-	   <li>  
-           <label for="folder8"  class="folderOne">个人主页</label> <input type="checkbox" id="folder8"/>
-		   <ol>  
-               <li class="file folderTwo"><a href="main.html" title="个人主页">个人主页</a></li> 
-           </ol>
-       </li>
+	<li>  
+           <label for="folder8"  class="folderOne"><a href="main.html" title="个人主页">个人主页</a></label> <input type="checkbox" id="folder8"/>
+	</li>
    </ol>
-
 <style type="text/css">  
     .tree {margin: 0;padding: 0;background-color:#f2f2f2;overflow: hidden;}  
     /*隐藏input*/
