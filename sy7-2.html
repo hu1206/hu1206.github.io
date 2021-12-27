@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>开灯装置</title>
+</head>
+
+<body>
+<p align="center">
+<img src="关灯.png" alt="" id="img"><br><!--图片-->
+<input type="button" id="bt1" value="开灯" onClick="f1()"><!--按钮-->
+<button id="bt2" onClick="f2()">关灯</button>
+</p>
+</body>
+<script>
+	function f1()
+	{
+		let bt1 = document.getElementById("bt1");
+		let img = document.getElementById("img");
+		img.src = "开灯.png";
+	}
+	function f2()
+	{
+		let bt2 = document.getElementById("bt2");
+		let img = document.getElementById("img");
+		img.src = "关灯.png";
+	}
+</script>
+</html>
