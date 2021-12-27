@@ -12,9 +12,9 @@
                 <li class="file folderTwo"><a href="sy1-1.html" title="实验1-1">实验1-1</a></li>  
                 <li class="file folderTwo"><a href="sy1-2.html" title="实验1-2">实验1-2</a></li>  
                 <li class="file folderTwo"><a href="sy1-3.html" title="实验1-3">实验1-3</a></li>
-				<li class="file folderTwo"><a href="sy1-4.html" title="实验1-4">实验1-4</a></li>
-				<li class="file folderTwo"><a href="sy1-5.html" title="实验1-5">实验1-5</a></li>
-				<li class="file folderTwo"><a href="sy1-6.html" title="实验1-6">实验1-6</a></li>
+		<li class="file folderTwo"><a href="sy1-4.html" title="实验1-4">实验1-4</a></li>
+		<li class="file folderTwo"><a href="sy1-5.html" title="实验1-5">实验1-5</a></li>
+		<li class="file folderTwo"><a href="sy1-6.html" title="实验1-6">实验1-6</a></li>
               </ol>
        </li>  
        <li>  
@@ -22,8 +22,8 @@
            <ol>  
                <li class="file folderTwo"><a href="sy2-1.html" title="实验2-1">实验2-1</a></li> 
                <li class="file folderTwo"><a href="sy2-2.html" title="实验2-2">实验2-2</a></li>
-			   <li class="file folderTwo"><a href="sy2-3.html" title="实验2-3">实验2-3</a></li>
-			   <li class="file folderTwo"><a href="sy2-4.html" title="实验2-4">实验2-4</a></li>
+		<li class="file folderTwo"><a href="sy2-3.html" title="实验2-3">实验2-3</a></li>
+		<li class="file folderTwo"><a href="sy2-4.html" title="实验2-4">实验2-4</a></li>
            </ol>  
        </li>
 		<li>
@@ -32,9 +32,9 @@
                 <li class="file folderTwo"><a href="sy3-1.html" title="实验3-1">实验3-1</a></li>  
                 <li class="file folderTwo"><a href="sy3-2.html" title="实验3-2">实验3-2</a></li>  
                 <li class="file folderTwo"><a href="sy3-3.html" title="实验3-3">实验3-3</a></li>
-				<li class="file folderTwo"><a href="sy3-4.html" title="实验3-4">实验3-4</a></li>
-				<li class="file folderTwo"><a href="sy3-5.html" title="实验3-5">实验3-5</a></li>
-				<li class="file folderTwo"><a href="sy3-6.html" title="实验3-6">实验3-6</a></li>
+		<li class="file folderTwo"><a href="sy3-4.html" title="实验3-4">实验3-4</a></li>
+		<li class="file folderTwo"><a href="sy3-5.html" title="实验3-5">实验3-5</a></li>
+		<li class="file folderTwo"><a href="sy3-6.html" title="实验3-6">实验3-6</a></li>
               </ol>
        </li>  
        <li>  
@@ -46,19 +46,19 @@
        </li> 
        <li>  
            <label for="folder5"  class="folderOne">实验五</label> <input type="checkbox" id="folder5"/>
-		   <ol>  
+	   <ol>  
                <li class="file folderTwo"><a href="sy5.html" title="实验五">实验五</a></li> 
            </ol>
        </li>
 	   <li>  
            <label for="folder6"  class="folderOne">实验六</label> <input type="checkbox" id="folder6"/>
-		   <ol>  
+	   <ol>  
                <li class="file folderTwo"><a href="sy6.html" title="实验六">实验六</a></li> 
            </ol>
        </li>
 	   <li>  
            <label for="folder7"  class="folderOne">实验七</label> <input type="checkbox" id="folder7"/>
-		   <ol>  
+	   <ol>  
                <li class="file folderTwo"><a href="sy7-1.html" title="实验7-1">实验7-1</a></li> 
                <li class="file folderTwo"><a href="sy7-2.html" title="实验7-2">实验7-2</a></li> 
            </ol>
