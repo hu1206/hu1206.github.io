@@ -5,6 +5,7 @@
 </head>
 
 <body>
+	<h1><a class="spec" href = "soft.html"></a>Welcome,my name is Hu Huining.</h1>
 	<ol class="tree">
        <li>
            <label for="folder1" class="folderOne">实验一</label> <input type="checkbox" id="folder1" />  
@@ -67,7 +68,8 @@
            <label for="folder8"  class="folderOne"><a href="main.html" title="个人主页">个人主页</a></label> <input type="checkbox" id="folder8"/>
 	</li>
    </ol>
-<style type="text/css">  
+<style type="text/css"> 
+     h1{text-align:center;}
     .tree {margin: 0;padding: 0;background-color:#f2f2f2;overflow: hidden;}  
     /*隐藏input*/
     .tree li input{position: absolute;left: 0;opacity: 0;z-index: 2;cursor: pointer;height: 1em;width:1em;top: 0;}  
